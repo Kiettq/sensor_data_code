@@ -9,8 +9,8 @@
 #define BASE_TOPIC "KIET/SENSOR/"
 
 #define DB_HOST "localhost"
-#define DB_USER "KietCDT24"  // Thay bằng user của bạn
-#define DB_PASS "kiet"       // Thay bằng mật khẩu MySQL của bạn
+#define DB_USER "KietCDT24"  
+#define DB_PASS "kiet"       
 #define DB_NAME "sensor_data"
 
 MYSQL *conn;
